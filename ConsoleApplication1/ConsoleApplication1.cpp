@@ -6,6 +6,7 @@
 int main()
 {
     std::cout << "vcl that \n";
+    std::cout << "test lan 1  \n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
