@@ -11,6 +11,8 @@ int main()
 
 
     std::cout << "test lan 1  \n";
+    std::cout << "test lan 1  \n";
+    std::cout << "test lan 1  \n";
 
 }
 
