@@ -1,6 +1,6 @@
-/.vs/code/v17
+
 .vs/
-*/.vs/
+
 # Bỏ qua thư mục chứa file chạy (.exe) và file tạm khi build
 x64/
 x86/
